@@ -2,3 +2,11 @@ adding new features in git
 new changes from the branch
 adding changes from masternew changes from the branch
 editing features from my branch
+
+
+
+
+
+
+
+git bash
